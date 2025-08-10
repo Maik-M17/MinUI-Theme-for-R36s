@@ -5,4 +5,6 @@
 <p>No system images. </p>
 <p>No ballast. </p>
 <p>Super light.</p>
-<p><img src="https://github.com/Maik-M17/MinUI-Theme-for-R36s/blob/main/pic.jpg" width="300" height="300"></p>
+<p><img src="https://raw.githubusercontent.com/Maik-M17/MinUI-Theme-for-R36s/refs/heads/main/pre_1.jpg" width="300" height="300"></p>
+<p><img src="https://raw.githubusercontent.com/Maik-M17/MinUI-Theme-for-R36s/refs/heads/main/pre_2.jpg" width="300" height="300"></p>
+<p><img src="https://raw.githubusercontent.com/Maik-M17/MinUI-Theme-for-R36s/refs/heads/main/pre_3.jpg" width="300" height="300"></p>
